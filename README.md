@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi every one I'm Dmytro a front-end developer from Ukraine. Live in the USA.
-6+ years of demonstrated experience in application development, systems architecture, and design.
+9+ years of demonstrated experience in application development, systems architecture, and design.
 Experience working in an Agile environment with a blended team of BA, Software Engineers, UI/UX Designers, and QA.
 Strong software engineering foundation: 
 - System design and architecture;
